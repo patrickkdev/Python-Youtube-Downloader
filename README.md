@@ -1,5 +1,5 @@
-Python-Youtube-Downloader Ç um script simples em Python que solicita a URL de um v°deo do YouTube e realiza o download do v°deo no formato MP4 para a pasta especificada.
+Script simples em Python que solicita a URL de um v√≠deo do YouTube e realiza o download do v√≠deo no formato MP4 para a pasta especificada.
 
-Necess·rio ter o tkinter instalado e pytube.
+Necess√°rio ter as bibliotecas tkinter e pytube instaladas.
 
 `pip install pytube`
