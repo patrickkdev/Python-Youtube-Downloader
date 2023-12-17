@@ -2,4 +2,4 @@ Python-Youtube-Downloader ‚ um script simples em Python que solicita a URL de um
 
 Necessário ter o tkinter instalado e pytube.
 
-pip install pytube
+`pip install pytube`
